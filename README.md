@@ -83,7 +83,7 @@ Languages
   </tr>
   
   <tr>
-  <td>[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=solarized_dark)</td>
+  <td>(https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=solarized_dark)</td>
   <td>![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=solarized_dark)</td>
   </tr></table>
 

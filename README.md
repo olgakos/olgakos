@@ -76,10 +76,13 @@ Languages
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=solarized_dark)
 
-
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=solarized_dark)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=solarized_dark)
-
+<table>
+  <tr>
+  <td>Статистика языков в репозиториях:</td>
+  <td>Статистика профиля:</td>
+  </tr>
+  
+  <tr>
+  <td>![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=solarized_dark)</td>
+  <td>![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=solarized_dark)</td>
+  </tr></table>

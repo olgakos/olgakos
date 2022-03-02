@@ -52,12 +52,32 @@ Languages
 ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)
 ![Skype](https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 
+<table>
+  <tr>
+  <td>Languages:</td>
+  <td>Servers:</td>
+  </tr>
+  <tr>
+  <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><br>
+      
+  </td>
+  <td><img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/-selenide-%43B02A?style=for-the-badge&logo=selenide&logoColor=white"><br>
+      
+  </td>
+  </tr></table>
+
+
+
+
 <!---Для компактной версии-->
 
 <table>
   <tr>
   <td>IDEs/Editors:</td>
-  <td>Servers:</td>
+  <td>Testing:</td>
   </tr>
   <tr>
   <td><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><br>

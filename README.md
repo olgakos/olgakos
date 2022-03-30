@@ -80,11 +80,17 @@
   <td> 1  </td>
   <td> 2 </td>
   </tr></table>
+    
+<a><img width="53%" align="right" title="ИМЯ БЛОКА" alt="Olga's Github Stats" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=default)
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=default)   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olgakos)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue)
+   
+[![Olga's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue) 
+    
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=solarized_dark)
 

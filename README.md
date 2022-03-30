@@ -63,6 +63,18 @@
 * Udemy
 * qa.guru 
 
+ 
+<table>
+  <tr>
+  <td>Статистика языков в репозиториях:</td>
+  <td>Статистика профиля:</td>
+  </tr>
+  <tr>
+  <td>1</td>
+  <td>2</td>
+  </tr></table>
+
+    
 ## :unicorn: Pet-projects
 * 
 * 
@@ -82,29 +94,22 @@
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue)
 ![Olga's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)-->
-    
-<a><img width="53%" align="right" title="ИМЯ БЛОКА3" alt="Olga's" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue"></a>
 
-<table>
-  <tr>
-  <td>Статистика языков в репозиториях:</td>
-  <td>Статистика профиля:</td>
-  </tr>
-  <tr>
-  <td>1</td>
-  <td>2</td>
-  </tr></table>
-
-//![]
+<a><img width="53%" align="right" title="ИМЯ БЛОКА 3" alt="Olga's" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue"></a>
   
-  - 💬 Ask me about ...
+    ------
+ - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 <!--
 - ⚡ Fun fact: ...
 -->
     
-    ## :anchor: Contacts
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
+-->
+    
+## :anchor: Contacts
+    
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)

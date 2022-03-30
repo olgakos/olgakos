@@ -80,17 +80,19 @@
 * 
 
 
-    
+    <p>
 <a><img width="53%" align="left" title="ИМЯ БЛОКА" alt="Olga's Github Stats" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a>
-
+    </p>
   
+   <p> 
 ______________________
 
+    
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue)
 
 ![Olga's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
 
-    
+    </p>
 
 
     

@@ -80,22 +80,17 @@
 * 
 
 
-<table>
-  <tr>
-  <td>IDEs/Editors:</td>
-  <td>Servers:</td>
-  </tr>
-  <tr>
-  <td> 1  </td>
-  <td> 2 </td>
-  </tr></table>
     
 <a><img width="53%" align="left" title="ИМЯ БЛОКА" alt="Olga's Github Stats" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a>
 
-<a><img width="53%" align="right" title="ИМЯ БЛОКА 3" alt="Olga's" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue"></a>
+  
+______________________
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue)
+
 ![Olga's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+
+    
 
 
     

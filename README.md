@@ -67,9 +67,6 @@
 * 
 * 
 
-## :anchor: Contacts
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
 <table>
   <tr>
@@ -83,11 +80,8 @@
     
 <a><img width="53%" align="right" title="ИМЯ БЛОКА" alt="Olga's Github Stats" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a>
 
-
-   
-
-    
-Карточка профиля: 
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue)
+![Olga's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
 ![Olga's GitHub card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=theme=vue)
 
 <table>
@@ -96,8 +90,8 @@
   <td>Статистика профиля:</td>
   </tr>
   <tr>
-  <td>![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue)</td>
-  <td>![Olga's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)</td>
+  <td>1</td>
+  <td>2</td>
   </tr></table>
 
 //![]
@@ -108,3 +102,7 @@
 <!--
 - ⚡ Fun fact: ...
 -->
+    
+    ## :anchor: Contacts
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)

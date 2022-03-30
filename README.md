@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute:
 <h3 align="center">QA engineer from Saint-Petersburg 🇷🇺</h3>
 
-## :watermelon: What am I doing
+## :four_leaf_clover: What am I doing
 - Пишу автотесты на Java (80%)  и C# (20%)
 - Выполняю ручное тестирование
 - Пишу тестовую документацию
@@ -10,12 +10,12 @@
 <h3 align="center">Languages</h3>
     
 
-## :butterfly: Languages
+## :four_leaf_clover: Languages
 
 - Java (80%) IntelliJIDEA
 - C# (20%) Visual Studio
 
-## :watermelon: Технологический стек
+## :four_leaf_clover: Технологический стек
  
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
@@ -72,11 +72,11 @@
 - Canva
 
 
-## :butterfly: Обучение и самообразование
+## :four_leaf_clover: Обучение и самообразование
 * Udemy
 
 
-## :butterfly: 
+## :four_leaf_clover: 
 
   
 

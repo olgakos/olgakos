@@ -82,7 +82,7 @@
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue)
 ![Olga's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
-![Olga's GitHub card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
 
 <table>
   <tr>

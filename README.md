@@ -82,7 +82,9 @@
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue)
 ![Olga's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)-->
+    
+<a><img width="53%" align="right" title="ИМЯ БЛОКА3" alt="Olga's" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue"></a>
 
 <table>
   <tr>

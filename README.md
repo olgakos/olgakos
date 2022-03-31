@@ -24,7 +24,7 @@
 <a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 </p>
     
-Я обычно использую в работе следующие технологии и инструменты, но открыта и к другим технологиям.
+Я использую следующиq стек и инструменты, но открыта и к другим технологиям:
     
 <table align="center" valign="top"><tr>   
 <td valign="top">
@@ -77,11 +77,11 @@
 </td>
 </tr></table>
 
-## :sunflower:  Projects:
-- Logistics software (C# 100%) <i>NDA :(</i>
+## :sunflower:  Projects (Automation testing)
+- Logistics software (C# 100%) - <i>no link, NDA :(</i>
     
-## :unicorn: Pet-projects
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a> 
+## :unicorn: Pet-projects (Automation testing)
+* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java 100%)
 
 ## :four_leaf_clover: Обучение и самообразование    
 * qa.guru
@@ -90,7 +90,8 @@
 * Google + Youtube :)    
 
 ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
-<a><img width="53%" align="left" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a> 
+    
+<a><img width="53%" align="left" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00b887&ic=b8722b&bc=FFFFFF"></a> 
     
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)

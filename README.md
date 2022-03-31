@@ -77,6 +77,9 @@
 </td>
 </tr></table>
 
+## :sunflower:  Projects:
+- Logistics software (C# 100%) <i>NDA :(</i>
+    
 ## :unicorn: Pet-projects
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a> 
 

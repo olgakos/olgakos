@@ -12,7 +12,7 @@
 - C# (20%) Visual Studio
 
 ## :four_leaf_clover: Технологический стек 
-<p align="center">
+<p align="left">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="Java"/></a>
 <a href="https://github.com/"><img src="images/logo/GitHub.svg" width="50" height="50"  alt="Github"/></a>
@@ -26,7 +26,7 @@
     
 Я использую следующиq стек и инструменты, но открыта и к другим технологиям:
     
-<table align="center" valign="top"><tr>   
+<table align="left" valign="top"><tr>   
 <td valign="top">
 <br> <b>Тестовые фреймворки:</b>
 <br>- Selenide (Java) (80%) 
@@ -76,6 +76,7 @@
 <br>- Postman
 </td>
 </tr></table>
+
 
 ## :sunflower:  Projects 
 * Logistics software (C# 100%, automation testing) - <i>no link, it's NDA :(</i> 

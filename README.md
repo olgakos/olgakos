@@ -84,12 +84,13 @@
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a> 
 
 ## :four_leaf_clover: Обучение и самообразование    
-* Udemy
 * qa.guru
-* Software-testing.ru
-* Google :)    
+* software-testing.ru
+* Udemy
+* Google + Youtube :)    
 
-<a><img width="53%" align="left" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a> ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+<a><img width="53%" align="left" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a> 
     
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
@@ -100,11 +101,8 @@
 
 - ⚡ Fun fact: ...
 -->
-    
 <!--
-   
 ## :anchor: Contacts
-    
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 -->

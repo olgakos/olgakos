@@ -25,38 +25,82 @@
 </p>
     
 Я обычно использую в работе следующие технологии и инструменты, но открыта и к другим технологиям.
-
-#### Тестовые фреймворки:
-- Selenide (Java) (80%) 
-- Selenium WebDriver (C#)  (20%)
-
-#### Библиотеки для тестирования:
-- JUnit 5 (Java)
-- NUnit 2.4.6 (C#) 
-
-Сборщики проектов:
-- Gradle (80%)
-- Maven  (20%)
-
-Средства визуализации результатов тестирования: 
-- Allure 
-- Telegram Bot
     
-Системы багтрекинга:
-- Redmine (80%)
-- Jira (10%)
-- Напрямую с разработчиками (10%)
+<table><tr>   
+<td>
+<br> <b>Тестовые фреймворки:</b>
+<br>- Selenide (Java) (80%) 
+<br>- Selenium WebDriver (C#) (20%)
+</td>   
+<td>
+<br> <b>Средства визуализации результатов тестирования: </b>
+<br>- Allure 
+<br>- Telegram Bot
+</td>    
+<td></td>   
+<td>
+<br> <b>Version Control: </b>
+<br>- Git + GitHub (80%) 
+<br>- Mercurial (20%)
+</td>    
+<td></td>       
+ 
+</tr>   
 
-#### Databases:
-- Microsoft SQL Server
-
-####  Version Control:
-* Git + GitHub (80%)
-* Mercurial (20%)
+<tr>
+<td>
+<br> <b>Библиотеки для тестирования:</b>
+<br>Библиотеки для тестирования:
+<br>- NUnit 2.4.6 (C#) 
+</td>
+       
+<td>
+<br><b>Системы багтрекинга:</b>
+<br>- Redmine (80%)
+<br>- Jira (10%)
+ <br>- Напрямую с разработчиками (10%)  
+</td>
+    
+<td>
+<br> <b>Удаленный запуск</b>
+<br>- Jenkins 
+<br>
+</td>
+</tr>
   
-####  Дополнительно:
-- Jenkins 
-- Postman
+
+ <tr>
+ <td>
+<br><b>Сборщики проектов:</b>
+<br>- Gradle (80%)
+<br>- Maven  (20%)
+</td>
+ 
+ 
+<td>
+<br><b>Databases:</b>
+<br>- Microsoft SQL Server
+<br>
+</td>
+    
+<td>
+<br> <b>Дополнительно:</b>
+<br>- Postman
+<br>
+</td>
+
+  </tr></table>
+
+
+
+
+
+
+
+  
+####  
+
+
 
 ## :four_leaf_clover: Обучение и самообразование    
 * Udemy
@@ -66,18 +110,7 @@
 
 <a><img width="53%" align="left" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a> ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
 
- 
-<table>
-  <tr>
-  <td>Статистика языков в репозиториях:</td>
-  <td>Статистика профиля:</td>
-  </tr>
-  <tr>
-  <td>1</td>
-  <td>2</td>
-  </tr></table>
-
-    
+     
 ## :unicorn: Pet-projects
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a> 
 

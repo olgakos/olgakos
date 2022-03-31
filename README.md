@@ -26,53 +26,52 @@
     
 Я использую следующиq стек и инструменты, но открыта и к другим технологиям:
     
-<table align="left" valign="top"><tr>   
-<td valign="top">
-<br> <b>Тестовые фреймворки:</b>
+<table valign="top"><tr>   
+<td>
+<b>Тестовые фреймворки:</b>
 <br>- Selenide (Java) (80%) 
 <br>- Selenium WebDriver (C#) (20%)
 </td>   
-<td>
-<br> <b>Средства визуализации результатов тестирования: </b>
+<td  valign="top">
+<b>Средства визуализации результатов тестирования: </b>
 <br>- Allure 
 <br>- Telegram Bot
 </td>    
 <td> 
-<br><b>Version Control: </b>
+<b>Version Control: </b>
 <br>- Git + GitHub (80%) 
 <br>- Mercurial (20%)
 </td>
-</tr>   
-<tr>
+</tr><tr>
 <td>
-<br> <b>Библиотеки для тестирования:</b>
-<br>Библиотеки для тестирования:
+<b>Библиотеки для тестирования:</b>
+<br>- JUnit5 (Java)
 <br>- NUnit 2.4.6 (C#) 
 </td>
        
 <td>
-<br><b>Системы багтрекинга:</b>
+<b>Системы багтрекинга:</b>
 <br>- Redmine (90%)
 <br>- Jira (10%)
 </td>    
 <td>
-<br> <b>Удаленный запуск</b>
+<b>Удаленный запуск</b>
 <br>- Jenkins 
 <br>
 </td>
 </tr><tr>
 <td>
-<br><b>Сборщики проектов:</b>
+<b>Сборщики проектов:</b>
 <br>- Gradle (80%)
 <br>- Maven  (20%)
 </td>  
 <td>
-<br><b>Databases:</b>
+<b>Databases:</b>
 <br>- Microsoft SQL Server
 <br>
 </td>    
 <td>
-<br> <b>Дополнительно:</b>
+<b>Дополнительно:</b>
 <br>- Postman
 </td>
 </tr></table>

@@ -58,15 +58,14 @@
 - Jenkins 
 - Postman
 
-## :four_leaf_clover: Обучение и самообразование
-    
+## :four_leaf_clover: Обучение и самообразование    
 * Udemy
-* qa.guru 
-* Google :)
-    
-        <p>
-<a><img width="53%" align="left" title="ИМЯ БЛОКА" alt="Olga's Github Stats" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a>
-    </p>
+* qa.guru
+* Software-testing.ru
+* Google :)    
+
+<a><img width="53%" align="left" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00a500&ic=6b8e23&bc=FFFFFF"></a> ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+
  
 <table>
   <tr>
@@ -82,9 +81,8 @@
 ## :unicorn: Pet-projects
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a> 
 
-
     
-![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+
 
     
   

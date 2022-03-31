@@ -92,24 +92,22 @@
 ## :unicorn: Pet-projects
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a> 
 
+   
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
     
+<!--
 
-
-    
-  
-------
  - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-<!--
+
 - ⚡ Fun fact: ...
 -->
     
 <!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
--->
-    
+   
 ## :anchor: Contacts
     
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+-->

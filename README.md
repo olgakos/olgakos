@@ -77,11 +77,11 @@
 </td>
 </tr></table>
 
-## :sunflower:  Projects (Automation testing)
-- Logistics software (C# 100%) - <i>no link, NDA :(</i>
+## :sunflower:  Projects 
+* Logistics software (C# 100%, automation testing) - <i>no link, it's NDA :(</i> 
     
-## :unicorn: Pet-projects (Automation testing)
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java 100%)
+## :unicorn: Pet-projects
+* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java 100%, automation testing)
 
 ## :four_leaf_clover: Обучение и самообразование    
 * qa.guru

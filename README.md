@@ -26,8 +26,8 @@
     
 Я обычно использую в работе следующие технологии и инструменты, но открыта и к другим технологиям.
     
-<table><tr>   
-<td>
+<table align="center"><tr>   
+<td align="top">
 <br> <b>Тестовые фреймворки:</b>
 <br>- Selenide (Java) (80%) 
 <br>- Selenium WebDriver (C#) (20%)
@@ -37,13 +37,12 @@
 <br>- Allure 
 <br>- Telegram Bot
 </td>    
-<td></td>   
-<td>
+<td> 
 <br> <b>Version Control: </b>
 <br>- Git + GitHub (80%) 
 <br>- Mercurial (20%)
 </td>    
-<td></td>       
+ 
  
 </tr>   
 
@@ -56,9 +55,8 @@
        
 <td>
 <br><b>Системы багтрекинга:</b>
-<br>- Redmine (80%)
+<br>- Redmine (90%)
 <br>- Jira (10%)
- <br>- Напрямую с разработчиками (10%)  
 </td>
     
 <td>
@@ -66,10 +64,11 @@
 <br>- Jenkins 
 <br>
 </td>
+    
+    
 </tr>
-  
 
- <tr>
+<tr>
  <td>
 <br><b>Сборщики проектов:</b>
 <br>- Gradle (80%)
@@ -86,19 +85,10 @@
 <td>
 <br> <b>Дополнительно:</b>
 <br>- Postman
-<br>
-</td>
 
+</td>
   </tr></table>
 
-
-
-
-
-
-
-  
-####  
 
 
 

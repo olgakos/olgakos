@@ -26,8 +26,8 @@
     
 Я обычно использую в работе следующие технологии и инструменты, но открыта и к другим технологиям.
     
-<table align="center"><tr>   
-<td align="top">
+<table align="center" valign="top"><tr>   
+<td valign="top">
 <br> <b>Тестовые фреймворки:</b>
 <br>- Selenide (Java) (80%) 
 <br>- Selenium WebDriver (C#) (20%)
@@ -38,14 +38,11 @@
 <br>- Telegram Bot
 </td>    
 <td> 
-<br> <b>Version Control: </b>
+<br><b>Version Control: </b>
 <br>- Git + GitHub (80%) 
 <br>- Mercurial (20%)
-</td>    
- 
- 
+</td>
 </tr>   
-
 <tr>
 <td>
 <br> <b>Библиотеки для тестирования:</b>
@@ -57,37 +54,28 @@
 <br><b>Системы багтрекинга:</b>
 <br>- Redmine (90%)
 <br>- Jira (10%)
-</td>
-    
+</td>    
 <td>
 <br> <b>Удаленный запуск</b>
 <br>- Jenkins 
 <br>
 </td>
-    
-    
-</tr>
-
-<tr>
- <td>
+</tr><tr>
+<td>
 <br><b>Сборщики проектов:</b>
 <br>- Gradle (80%)
 <br>- Maven  (20%)
-</td>
- 
- 
+</td>  
 <td>
 <br><b>Databases:</b>
 <br>- Microsoft SQL Server
 <br>
-</td>
-    
+</td>    
 <td>
 <br> <b>Дополнительно:</b>
 <br>- Postman
-
 </td>
-  </tr></table>
+</tr></table>
 
 
 

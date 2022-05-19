@@ -77,11 +77,13 @@
 </tr></table>
 
 
-## :sunflower:  Projects 
-* Logistics software (C# 100%, automation testing) - <i>no link, it's NDA :(</i> 
+## :sunflower: Commercial Projects 
+* Logistics Enterprise software (C# 100%, automation testing) - <i>no link, it's NDA :(</i> 
+* Logistics Enterprise software (Java# 100%, automation testing) - <i>no link, it's NDA :(</i>   
     
 ## :unicorn: Pet-projects
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java 100%, automation testing)
+* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения Wikipedia</a> (BrowserStack, Allure)
 
 ## :four_leaf_clover: Обучение и самообразование    
 * qa.guru

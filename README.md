@@ -4,14 +4,14 @@
 
 ## :four_leaf_clover: What am I doing
 - Пишу автотесты на Java (80%)  и C# (20%)
-- Делаю ручное тестирование
-- Пишу текс-кейсы и другую тестовую документацию
+- Выполняю ручное тестирование и взаимодействую с разработчиками
+- Пишу текс-кейсы и другую тестовую документацию, поддерживаю в актуальнмо виде корпоративную Wiki
     
 ## :four_leaf_clover: Languages
 - Java (80%) IntelliJIDEA
 - C# (20%) Visual Studio
 
-## :four_leaf_clover: Технологический стек 
+## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="Java"/></a>
@@ -24,7 +24,7 @@
 <a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 </p>
     
-Я использую следующиq стек и инструменты, но открыта и к другим технологиям:
+Я использую следующий стек и инструменты, но открыта и к другим технологиям:
     
 <table valign="top"><tr>   
 <td>
@@ -98,7 +98,6 @@
     
 <!--
 <a><img width="53%" align="center" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00b887&ic=b8722b&bc=FFFFFF"></a> 
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
 

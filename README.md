@@ -17,8 +17,9 @@
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="IDEA" title="IJ IDEA"></a>
-<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="Java" title="Java"></a>
-<a href="https://github.com/"><img src="images/logo/GitHub.svg" width="50" height="50"  alt="Github" title="Github"></a>
+<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="Java" title="Java"></a>    
+<a href="https://git.com/"><img src="[images/logo/GitHub.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" width="50" height="50"  alt="Git" title="Git"></a>
+<a href="https://github.com/"><img src="images/logo/GitHub.svg" width="50" height="50"  alt="Github" title="Github"></a>    
 <a href="https://junit.org/junit5/"><img src="images/logo/Junit5.svg" width="50" height="50"  alt="JUnit 5"title="JUnit 5"></a>
 <a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="50" height="50"  alt="Gradle"title="Gradle"></a>
 <a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="50" height="50"  alt="Selenide" title="Selenide"></a>
@@ -111,6 +112,12 @@
 
     
 <!--
+<a href="https://t.me/kos2304" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Olga Kos" height="50" width="50" /></a>
+<a href="***" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Google Drive" height="50" width="50" ></a>
+<a href="https://t.me/kos2304" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Olga Kos" height="50" width="50" /></a>
+
+
+
 <a><img width="53%" align="center" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00b887&ic=b8722b&bc=FFFFFF"></a> 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
 

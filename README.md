@@ -101,7 +101,7 @@
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java 100%, automation testing)
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
 
-## :four_leaf_clover: Обучение и самообразование    
+## :four_leaf_clover: Образование, курсы    
 * qa.guru
 * software-testing.ru
 * Udemy
@@ -113,27 +113,20 @@
 
 ## :anchor: Contacts   
 <p align="left">
-<a href="https://t.me/kos2304"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="My Telegram"></a>
-<a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" alt="Краткое резюме в Google Drive"></a>
-<a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" alt="My Gmail" ></a>    
-    
-
+<a href="https://t.me/kos2304"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a>
+<a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" title="My Gmail"></a>      
+<a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive"></a>
 
     
 <!--
 [![Email](images/logo/GmailIcon.png)](mailto:qaxxx@gmail.com)
 <a href="https://t.me/xxx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Olga Kos" height="50" width="50" /></a>
 <a href="***" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Google Drive" height="50" width="50" ></a>
-
-
-
 <a><img width="53%" align="center" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00b887&ic=b8722b&bc=FFFFFF"></a> 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
-
-<!--
 ## :anchor: Contacts
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 -->
 --------------------
-Prifile UPD 2022-05-20
+ProfileUPD 2022-05-20

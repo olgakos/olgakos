@@ -30,7 +30,8 @@
 <p align="left">
 <a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="Visual Studio" title="Visual Studio"></a>  
 <a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="C#" title="C#"></a>
-<a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="NUnit" title="NUnit"></a>  
+<a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="NUnit" title="NUnit"></a>
+<a href="https://www.ххх/"><img src="images/logo/Redmine_JPG.jpg" width="50" height="50" title="Redmine"></a>      
     
 <!--
 <a href="https://www.ххх/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="Rest-Assured" title="Rest-Assured"></a>

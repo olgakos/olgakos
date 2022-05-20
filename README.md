@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute:
-* QA engineer from Saint-Petersburg 🇷🇺
-* Коммерческий опыт в тестировании c 2018 года
+<h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute: </h1>
+
+- QA engineer from Saint-Petersburg
+- Коммерческий опыт в тестировании c 2018 года
 
 ## :four_leaf_clover: What am I doing
 - Пишу автотесты на Java (80%) и C# (20%)

@@ -104,23 +104,19 @@
 ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
  
 
-## :four_leaf_clover: Contacts
-[![Telegram](images/logo/Telegram.png)](https://t.me/kos2304) [![Email](images/logo//Gmail_Icon.png)](mailto:qakostina@gmail.com)
+## :anchor: Contacts   
+<a href="[https://www.ххх/](https://t.me/kos2304)"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="My Telegram"></a>
+[![Email](images/logo/GmailIcon.png)](mailto:qakostina@gmail.com)   
 
     
 <!--
 <a><img width="53%" align="center" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00b887&ic=b8722b&bc=FFFFFF"></a> 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
 
- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-- ⚡ Fun fact: ...
--->
 <!--
 ## :anchor: Contacts
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 -->
+--------------------
+Prifile UPD 2022-05-20

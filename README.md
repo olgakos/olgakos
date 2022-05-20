@@ -27,6 +27,11 @@
 <a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure" title="Allure Report"></a>
 <a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"></a>
 <a href="https://www.ххх/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="Telegram Bot"></a>
+<p align="left">
+<a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="Visual Studio" title="Visual Studio"></a>  
+<a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="C#" title="C#"></a>
+<a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="NUnit" title="NUnit"></a>  
+    
 <!--
 <a href="https://www.ххх/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="Rest-Assured" title="Rest-Assured"></a>
 <a href="https://www.ххх/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="AllureTestOps" title="AllureTestOps"></a>
@@ -107,14 +112,18 @@
  
 
 ## :anchor: Contacts   
-<a href="[https://www.ххх/](https://t.me/kos2304)"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="My Telegram"></a>
-[![Email](images/logo/GmailIcon.png)](mailto:qakostina@gmail.com)   
+<p align="left">
+<a href="https://t.me/kos2304"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="My Telegram"></a>
+<a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" alt="Краткое резюме в Google Drive"></a>
+<a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" alt="My Gmail" ></a>    
+    
+
 
     
 <!--
-<a href="https://t.me/kos2304" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Olga Kos" height="50" width="50" /></a>
+[![Email](images/logo/GmailIcon.png)](mailto:qaxxx@gmail.com)
+<a href="https://t.me/xxx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Olga Kos" height="50" width="50" /></a>
 <a href="***" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Google Drive" height="50" width="50" ></a>
-<a href="https://t.me/kos2304" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Olga Kos" height="50" width="50" /></a>
 
 
 

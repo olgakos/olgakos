@@ -1,16 +1,17 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute:
-<h3 align="center">QA engineer from Saint-Petersburg 🇷🇺</h3>
-<h3 align="center">Коммерческий опыт c 2018 года</h3>
+* QA engineer from Saint-Petersburg 🇷🇺
+* Коммерческий опыт в тестировании c 2018 года
 
 ## :four_leaf_clover: What am I doing
-- Пишу автотесты на Java (80%)  и C# (20%)
-- Выполняю ручное тестирование и взаимодействую с разработчиками
-- Пишу текс-кейсы и другую тестовую документацию, поддерживаю в актуальнмо виде корпоративную Wiki
+- Пишу автотесты на Java (80%) и C# (20%)
+- Выполняю ручное тестирование, взаимодействую с разработчиками
+- Составляю документацию: тест-кейсы и чек-листы, пользовательские инструкции, поддерживаю актуальность корпоративной Wiki.
     
 ## :four_leaf_clover: Languages
 - Java (80%) IntelliJIDEA
 - C# (20%) Visual Studio
+- Python (общее представление) PyCharm
 
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">
@@ -23,7 +24,7 @@
 <a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="50" height="50"  alt="Selenoid" title="Selenoid"></a>
 <a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure" title="Allure Report"></a>
 <a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"></a>
-<a href="https://www.ххх/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="Telegram"></a>
+<a href="https://www.ххх/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="Telegram Bot"></a>
 <!--
 <a href="https://www.ххх/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="Rest-Assured" title="Rest-Assured"></a>
 <a href="https://www.ххх/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="AllureTestOps" title="AllureTestOps"></a>
@@ -85,14 +86,13 @@
 </td>
 </tr></table>
 
-
 ## :sunflower: Commercial Projects 
-* Logistics Enterprise software (C# 100%, automation testing) - <i>no link, it's NDA :(</i> 
-* Logistics Enterprise software (Java# 100%, automation testing) - <i>no link, it's NDA :(</i>   
+* Logistics Enterprise software (C# 100%, automation testing) - <i>Sorry, no link. It's NDA :(</i> 
+* Logistics Enterprise software (Java# 100%, automation testing) - <i>Sorry, no link. It's NDA :(</i>   
     
 ## :unicorn: Pet-projects
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java 100%, automation testing)
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения Wikipedia</a> (BrowserStack, Allure)
+* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
 
 ## :four_leaf_clover: Обучение и самообразование    
 * qa.guru

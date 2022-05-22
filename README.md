@@ -23,10 +23,14 @@
 <a href="https://junit.org/junit5/"><img src="images/logo/Junit5.svg" width="50" height="50"  alt="JUnit 5"title="JUnit 5"></a>
 <a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="50" height="50"  alt="Gradle"title="Gradle"></a>
 <a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="50" height="50"  alt="Selenide" title="Selenide"></a>
+<a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"></a>  
+<a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure" title="Allure Report"></a>    
 <a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="50" height="50"  alt="Selenoid" title="Selenoid"></a>
-<a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure" title="Allure Report"></a>
-<a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"></a>
-<a href="https://www.ххх/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="Telegram Bot"></a>
+<a href="https://web.telegram.org/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="Telegram Bot"></a>
+<a href="https://rest-assured.io/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="Rest-Assured" title="Rest-Assured"></a>    
+<!-- <a href="https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="Lombok" title="Lombok"></a>  -->
+<!-- <a href="https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="AllureTestOps" title="AllureTestOps"></a> -->    
+
 <p align="left">
 <a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="Visual Studio" title="Visual Studio"></a>  
 <a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="C#" title="C#"></a>

@@ -17,30 +17,30 @@
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="olgakos" title="IJ IDEA"></a>
-<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="Java" title="Java"></a>    
+<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="olgakos" title="Java"></a>    
 <a href="https://git.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" title="Git"></a>
-<a href="https://github.com/"><img src="images/logo/GitHub.svg" width="50" height="50"  alt="Github" title="Github"></a>    
-<a href="https://junit.org/junit5/"><img src="images/logo/Junit5.svg" width="50" height="50"  alt="JUnit 5"title="JUnit 5"></a>
-<a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="50" height="50"  alt="Gradle"title="Gradle"></a>
-<a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="50" height="50"  alt="Selenide" title="Selenide"></a>
-<a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"></a>  
-<a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure" title="Allure Report"></a>    
-<a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="50" height="50"  alt="Selenoid" title="Selenoid"></a>
-<a href="https://web.telegram.org/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="Telegram" title="Telegram Bot"></a>
-<a href="https://rest-assured.io/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="Rest-Assured" title="Rest-Assured"></a>    
-<!-- <a "href=https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="Lombok" title="Lombok"></a>  -->
-<!-- <a "href=https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="AllureTestOps" title="AllureTestOps"></a> -->    
+<a href="https://github.com/"><img src="images/logo/GitHub.svg" width="50" height="50"  alt="olgakos" title="Github"></a>    
+<a href="https://junit.org/junit5/"><img src="images/logo/Junit5.svg" width="50" height="50"  alt="olgakos"title="JUnit 5"></a>
+<a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="50" height="50"  alt="olgakos" title="Gradle"></a>
+<a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="50" height="50"  alt="olgakos" title="Selenide"></a>
+<a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="olgakos" title="Jenkins"></a>  
+<a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="olgakos" title="Allure Report"></a>    
+<a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="50" height="50"  alt="olgakos" title="Selenoid"></a>
+<a href="https://web.telegram.org/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="olgakos" title="Telegram Bot"></a>
+<a href="https://rest-assured.io/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="olgakos" title="Rest-Assured"></a>    
+<!-- <a "href=https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="olgakos" title="Lombok"></a>  -->
+<!-- <a "href=https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="olgakos" title="AllureTestOps"></a> -->    
 
 <p align="left">
-<a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="Visual Studio" title="Visual Studio"></a>  
-<a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="C#" title="C#"></a>
-<a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="NUnit" title="NUnit"></a>
+<a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="olgakos" title="Visual Studio"></a>  
+<a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="olgakos" title="C#"></a>
+<a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="olgakos" title="NUnit"></a>
 <a href="https://www.redmine.org/projects/redmine"><img src="images/logo/redmine_png.png" width="50" height="50" title="Redmine"></a>      
     
 <!--
-<a href="https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="AllureTestOps" title="AllureTestOps"></a>
-<a href="https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="Lombok" title="Lombok"></a>  
-<a href="https://www.atlassian.com/ru/software/jira"><img src="images/logo/Jira.svg" width="50" height="50"  alt="Jira" title="Jira"></a>
+<a href="https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="olgakos" title="AllureTestOps"></a>
+<a href="https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="olgakos" title="Lombok"></a>  
+<a href="https://www.atlassian.com/ru/software/jira"><img src="images/logo/Jira.svg" width="50" height="50"  alt="olgakos" title="Jira"></a>
 -->
 
 </p>

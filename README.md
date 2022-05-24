@@ -35,7 +35,9 @@
 <a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="olgakos" title="Visual Studio"></a>  
 <a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="olgakos" title="C#"></a>
 <a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="olgakos" title="NUnit"></a>
-<a href="https://www.redmine.org/projects/redmine"><img src="images/logo/redmine_png.png" width="50" height="50" title="Redmine"></a>      
+<a href="https://www.redmine.org/projects/redmine"><img src="images/logo/redmine_png.png" width="50" height="50" alt="olgakos" title="Redmine"></a>
+<a href="https://www.postman.com/"><img src="images/logo/Postman.png" width="50" height="50" alt="olgakos" title="Postman"></a>
+<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019"><img src="images/logo/MicrosoftSqlServer" width="50" height="50" alt="olgakos" title="MicrosoftSqlServer"></a>          
     
 <!--
 <a href="https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="olgakos" title="AllureTestOps"></a>

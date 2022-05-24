@@ -30,7 +30,7 @@
 <a href="https://web.telegram.org/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="olgakos" title="Telegram Bot"></a>
 <a href="https://rest-assured.io/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="olgakos" title="Rest-Assured"></a>    
 <!-- <a "href=https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="olgakos" title="Lombok"></a>  -->
-<!-- <a "href=https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="olgakos" title="AllureTestOps"></a> -->    
+<!-- <a "href=https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="olgakos" title="Allure TestOps"></a> -->    
 
 <p align="left">
 <a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="olgakos" title="Visual Studio"></a>  
@@ -104,10 +104,13 @@
 ## :sunflower: Commercial Projects 
 * Logistics Enterprise software (C# 100%, automation testing) - <i>Sorry, no link. It's NDA :(</i> 
 * Logistics Enterprise software (Java# 100%, automation testing) - <i>Sorry, no link. It's NDA :(</i> 
+* 
 ## :unicorn: Pet-projects
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java 100%, automation testing)
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
-* <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (Java + REST-API)
+* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (UI тесты. Java, Allure, Jenkins, Telegram Bot )
+* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобиль
+* ного приложения "Wikipedia"</a> (BrowserStack, Allure)
+* <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (Java, REST-API,  Allure, Jenkins)
+* 
 ## :four_leaf_clover: Образование, курсы    
 * qa.guru
 * software-testing.ru
@@ -120,7 +123,7 @@
 <p align="left">
 <a href="https://t.me/kos2304"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a>
 <a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" title="My Gmail"></a>      
-<a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive"></a>
+<a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>
 
     
 <!--
@@ -134,4 +137,4 @@
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 -->
 --------------------
-ProfileUPD 2022-05-20
+UPD 2022-05-24

@@ -15,6 +15,7 @@
 - Python (общее представление) PyCharm
 
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
+<p align="left">Я использую следующий стек и инструменты. Но открыта и к другим технологиям.</p>
 <p align="left">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="olgakos" title="IJ IDEA"></a>
 <a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="olgakos" title="Java"></a>    
@@ -37,7 +38,7 @@
 <a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="olgakos" title="NUnit"></a>
 <a href="https://www.redmine.org/projects/redmine"><img src="images/logo/redmine_png.png" width="50" height="50" alt="olgakos" title="Redmine"></a>
 <a href="https://www.postman.com/"><img src="images/logo/Postman.svg" width="50" height="50" alt="olgakos" title="Postman"></a>
-<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019"><img src="images/logo/MicrosoftSqlServer.svg" width="50" height="50" alt="olgakos" title="MicrosoftSqlServer"></a>          
+<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019"><img src="images/logo/MicrosoftSqlServer.svg" width="50" height="50" alt="olgakos" title="Microsoft SQL Server"></a>          
     
 <!--
 <a href="https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="olgakos" title="AllureTestOps"></a>
@@ -47,7 +48,7 @@
 
 </p>
     
-Я использую следующий стек и инструменты, но открыта и к другим технологиям:
+
     
 <table valign="top"><tr>   
 <td>
@@ -70,6 +71,7 @@
 <b>Библиотеки для тестирования:</b>
 <br>- JUnit5 (Java)
 <br>- NUnit 2.4.6 (C#) 
+<br>- Rest-Assured
 </td>
        
 <td>
@@ -80,13 +82,13 @@
 <td>
 <b>Удаленный запуск</b>
 <br>- Jenkins 
-<br>
+<br>- BrowserStack
 </td>
 </tr><tr>
 <td>
 <b>Сборщики проектов:</b>
 <br>- Gradle (80%)
-<br>- Maven  (20%)
+<br>- Maven (20%)
 </td>  
 <td>
 <b>Databases:</b>

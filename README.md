@@ -100,10 +100,12 @@
 ## :sunflower: Commercial Projects 
 * Logistics Enterprise software (C# 100%, automation testing) - <i>Sorry, no link. It's NDA :(</i> 
 * Logistics Enterprise software (Java# 100%, automation testing) - <i>Sorry, no link. It's NDA :(</i>   
-    
+*     
 ## :unicorn: Pet-projects
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java 100%, automation testing)
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
+* <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (Java + REST-API)
+
 
 ## :four_leaf_clover: Образование, курсы    
 * qa.guru

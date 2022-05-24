@@ -45,10 +45,7 @@
 <a href="https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="olgakos" title="Lombok"></a>  
 <a href="https://www.atlassian.com/ru/software/jira"><img src="images/logo/Jira.svg" width="50" height="50"  alt="olgakos" title="Jira"></a>
 -->
-
 </p>
-    
-
     
 <table valign="top"><tr>   
 <td>
@@ -107,9 +104,8 @@
 
 ## :unicorn: Pet-projects
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (UI тесты. Java, Allure, Jenkins, Telegram Bot )
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобиль
-* ного приложения "Wikipedia"</a> (BrowserStack, Allure)
-* <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (Java, REST-API,  Allure, Jenkins)
+* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
+* <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (API тесты. Java, REST-API,  Allure, Jenkins)
 
 ## :four_leaf_clover: Образование, курсы    
 * qa.guru

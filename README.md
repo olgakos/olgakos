@@ -14,6 +14,8 @@
 - C# (20%) Visual Studio
 - Python (общее представление) PyCharm
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">Я использую следующий стек и инструменты. Но открыта и к другим технологиям.</p>
 <p align="left">

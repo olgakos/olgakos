@@ -52,6 +52,7 @@
 <a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="olgakos" title="Visual Studio"></a>  
 <a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="olgakos" title="C#"></a>
 <a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="olgakos" title="NUnit"></a>
+<a href="https://www.ххх/"><img src="images/logo/webdriver4.png" width="50" height="50"  alt="olgakos" title="Slenium WebDriver"></a>
 <a href="https://www.redmine.org/projects/redmine"><img src="images/logo/redmine_png.png" width="50" height="50" alt="olgakos" title="Redmine"></a>
 <a href="https://www.postman.com/"><img src="images/logo/Postman.svg" width="50" height="50" alt="olgakos" title="Postman"></a>
 <a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019"><img src="images/logo/MicrosoftSqlServer.svg" width="50" height="50" alt="olgakos" title="Microsoft SQL Server"></a>          

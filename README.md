@@ -18,6 +18,20 @@
 
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">Я использую следующий стек и инструменты. Но открыта и к другим технологиям.</p>
+
+<p align="left">
+<a href="https://www.ххх/"><img src="images/logo/pycharm.png" width="50" height="50"  alt="olgakos" title="PyCharm"></a>
+<a href="https://www.ххх/"><img src="images/logo/python.svg" width="50" height="50"  alt="olgakos" title="Python"></a>    
+<a href="https://www.ххх/"><img src="images/logo/pytest.png" width="50" height="50"  alt="olgakos" title="PyTest"></a>
+<a href="https://www.ххх/"><img src="images/logo/selene.png" width="50" height="50"  alt="olgakos" title="Selene"></a>
+<a href="https://www.ххх/"><img src="images/logo/request.png" width="50" height="50"  alt="olgakos" title="Request"></a>    
+<a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="olgakos" title="Jenkins"></a>  
+<a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="olgakos" title="Allure Report"></a>    
+<a href="https://web.telegram.org/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="olgakos" title="Telegram Bot"></a>
+<a href="https://rest-assured.io/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="olgakos" title="Rest-Assured"></a>    
+<!-- <a "href=https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="olgakos" title="Lombok"></a>  -->
+<!-- <a "href=https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="olgakos" title="Allure TestOps"></a> -->  
+
 <p align="left">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="olgakos" title="IJ IDEA"></a>
 <a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="olgakos" title="Java"></a>    

@@ -161,14 +161,15 @@ UPD 2022-05-24
   
 ```mermaid
   gantt 
-    title In IT since 2018. Work experience:
+    title In IT since 2018. Work experience (demo) :
     dateFormat  YYYY-MM
     section 👨‍💻
     Junior QA         :done, 2018-12, 90d
-    Manual Tester	  :done, 2019-02, 180d
+    Manual Tester	  :done, 2019-03, 180d
     Manual Tester     :done, 2019-10, 1000d
     Automtion QA      :done, 2021-01, 730d
 ```
+</details>
 -------------------
 <details><summary>Образование в IT</summary>
     

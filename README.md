@@ -10,9 +10,9 @@
 - Составляю документацию: тест-кейсы и чек-листы, пользовательские инструкции, поддерживаю актуальность корпоративной Wiki.
     
 ## :four_leaf_clover: Languages
-- Java (80%) IntelliJIDEA
+- Java (50%) IntelliJIDEA
+- Python (30%) PyCharm
 - C# (20%) Visual Studio
-- Python (общее представление) PyCharm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -116,25 +116,25 @@
 </tr></table>
 
 ## :sunflower: Commercial Projects 
-* Logistics Enterprise software (C# 100%, automation testing) - <i>Sorry, no link. It's NDA :(</i> 
-* Logistics Enterprise software (Java# 100%, automation testing) - <i>Sorry, no link. It's NDA :(</i> 
+* Logistics Enterprise software (C# 100%, Selenium WebDriver + NUnut. Java,  REST-API tests)
 
 ## :unicorn: Pet-projects
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (UI тесты. Java, Allure, Jenkins, Telegram Bot )
+* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot)
+* <a target="_blank" href="https://github.com/olgakos/demo_woneit">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
+* <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (Java.  REST-API tests. Allure, Jenkins)
+* <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2">Demo Alfa Bank API</a> (Python. REST-API tests.)
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
-* <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (API тесты. Java, REST-API,  Allure, Jenkins)
 
 ## :four_leaf_clover: Образование, курсы    
 * qa.guru
 * software-testing.ru
 * Udemy
-* Google + Youtube :)    
 
 ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
  
 ## :anchor: Contacts   
 <p align="left">
-<a href="https://t.me/kos2304"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a>
+<a href="https://t.me/kos2304"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a> (...)
 <a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" title="My Gmail"></a>      
 <a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>
 

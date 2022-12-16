@@ -3,6 +3,32 @@
 
 - QA engineer from Saint-Petersburg
 - Коммерческий опыт в тестировании c 2018 года
+<details>
+    <summary>Опыт работы [More...]</summary>
+<!-- Additional Work Line section -->
+<!-- <summary>My Work Line</summary> -->  
+    
+```mermaid
+  gantt 
+    title In IT since 2018. Work experience (A Gantt chart was updated on 2022-12-16):
+    dateFormat  YYYY-MM
+    section OlgaKos
+    Junior QA         :done, 2018-12, 90d
+    Manual Tester	  :done, 2019-03, 2019-09
+    Manual QA         :after, 2019-10, 2021-10
+    QA automation engineer     :active, 2021-01, 2023-01
+```
+</details>
+<!-- EDU section -->
+<details>
+    <summary>Образование, курсы [More...]</summary>
+    
+## :four_leaf_clover: Образование, курсы    
+* qa.guru
+* software-testing.ru
+* Udemy
+</details>
+
 
 ## :four_leaf_clover: What am I doing
 - Пишу автотесты на Java (80%) и C# (20%)
@@ -125,10 +151,7 @@
 * <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2">Demo Alfa Bank API</a> (Python. REST-API tests.)
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
 
-## :four_leaf_clover: Образование, курсы    
-* qa.guru
-* software-testing.ru
-* Udemy
+
 
 ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
  
@@ -155,23 +178,11 @@ UPD 2022-05-24
     
 <br>demo!
 
-<!-- Additional info section -->
-<details>	
-  <summary>Work Line (demo)</summary>
-  
-```mermaid
-  gantt 
-    title In IT since 2018. Work experience (demo) :
-    dateFormat  YYYY-MM
-    section 👨‍💻
-    Junior QA         :done, 2018-12, 90d
-    Manual Tester	  :done, 2019-03, 180d
-    Manual Tester     :done, 2019-10, 1000d
-    Automtion QA      :done, 2021-01, 730d
-```
-</details>
+
+
 -------------------
-<details><summary>Образование в IT</summary>
+<details>
+    <summary>Образование в IT</summary>
     
 ## :four_leaf_clover: Образование, курсы    
 * qa.guru

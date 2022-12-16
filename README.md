@@ -151,3 +151,28 @@
 -->
 --------------------
 UPD 2022-05-24
+--------------------
+    
+    <br> demo
+
+<!-- Additional info section -->
+<details>	
+  <summary>Work Line</summary>
+  
+```mermaid
+  gantt 
+    title 𝟪+ 𝓎𝑒𝒶𝓇𝓈 𝒾𝓃 𝐼𝒯. 𝒲𝑜𝓇𝓀 𝑒𝓍𝓅𝑒𝓇𝒾𝑒𝓃𝒸𝑒:
+    dateFormat  YYYY-MM
+    section 👨‍💻
+    Junior QA         :done, 2018-12, 90d
+    Manual Tester	  :done, 2019-02, 180d
+    Manual Tester     :done, 2019-10, 1095d
+    Automtion QA      :done, 2021-01, 730d
+```
+-------------------
+<details><summary>Образование в IT</summary>
+## :four_leaf_clover: Образование, курсы    
+* qa.guru
+* software-testing.ru
+* Udemy
+</details>

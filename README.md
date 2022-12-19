@@ -15,7 +15,7 @@
     dateFormat  YYYY-MM
     section OlgaKos
     Junior QA         :done, 2018-12, 90d
-    Manual Tester	  :done, 2019-02, 2019-09
+    Manual Tester	  :done, 2019-03, 2019-09
     Manual QA         :after, 2019-10, 2021-10
     QA automation engineer     :active, 2021-01, 2023-01
 ```
@@ -23,46 +23,44 @@
 
 <!-- EDU section -->
 ## :four_leaf_clover: Образование, курсы
-
 <details><summary><i>List</i></summary> 
+    
 * qa.guru
 * software-testing.ru
 * Udemy    
 </details>
 
- 
-
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">
-<a href="https://www.ххх/"><img src="images/logo/python.svg" width="50" height="50"  alt="olgakos" title="Python"></a>        
-<a href="https://www.ххх/"><img src="images/logo/pycharm.png" width="50" height="50"  alt="olgakos" title="PyCharm"></a>
-<a href="https://www.ххх/"><img src="images/logo/pytest.png" width="50" height="50"  alt="olgakos" title="PyTest"></a>
-<a href="https://www.ххх/"><img src="images/logo/selene.png" width="50" height="50"  alt="olgakos" title="Selene"></a>
-<a href="https://www.ххх/"><img src="images/logo/request.png" width="50" height="50"  alt="olgakos" title="Request"></a>    
+<a href="https://www.ххх/"><img src="images/logo/python.svg" width="40" height="40"  alt="olgakos" title="Python"></a>        
+<a href="https://www.ххх/"><img src="images/logo/pycharm.png" width="40" height="40"  alt="olgakos" title="PyCharm"></a>
+<a href="https://www.ххх/"><img src="images/logo/pytest.png" width="40" height="40"  alt="olgakos" title="PyTest"></a>
+<a href="https://www.ххх/"><img src="images/logo/selene.png" width="40" height="40"  alt="olgakos" title="Selene"></a>
+<a href="https://www.ххх/"><img src="images/logo/request.png" width="40" height="40"  alt="olgakos" title="Request"></a>    
 <p align="left">
-<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="olgakos" title="Java"></a>    
-<a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="olgakos" title="IJ IDEA"></a>
-<a href="https://junit.org/junit5/"><img src="images/logo/Junit5.svg" width="50" height="50" alt="olgakos" title="JUnit 5"></a>
-<a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="50" height="50" alt="olgakos" title="Selenide"></a>
-<a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="50" height="50"  alt="olgakos" title="Gradle"></a>
+<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="40" height="40"  alt="olgakos" title="Java"></a>    
+<a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="40" height="40"  alt="olgakos" title="IJ IDEA"></a>
+<a href="https://junit.org/junit5/"><img src="images/logo/Junit5.svg" width="40" height="40" alt="olgakos" title="JUnit 5"></a>
+<a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="40" height="40" alt="olgakos" title="Selenide"></a>
+<a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="40" height="40"  alt="olgakos" title="Gradle"></a>
 
 <p align="left">
-<a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="olgakos" title="C#"></a>
-<a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="olgakos" title="Visual Studio"></a>  
-<a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="olgakos" title="NUnit"></a>
-<a href="https://www.ххх/"><img src="images/logo/webdriver4.png" width="50" height="50"  alt="olgakos" title="Slenium WebDriver"></a>
+<a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="40" height="40"  alt="olgakos" title="C#"></a>
+<a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="40" height="40"  alt="olgakos" title="Visual Studio"></a>  
+<a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="40" height="40"  alt="olgakos" title="NUnit"></a>
+<a href="https://www.ххх/"><img src="images/logo/webdriver4.png" width="40" height="40"  alt="olgakos" title="Slenium WebDriver"></a>
     
 <p align="left">
-<a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="olgakos" title="Jenkins"></a>
-<a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="50" height="50"  alt="olgakos" title="Selenoid"></a>    
-<a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="olgakos" title="Allure Report"></a>    
-<a href="https://web.telegram.org/"><img src="images/logo/Telegram.svg" width="50" height="50"  alt="olgakos" title="Telegram Bot"></a>
-<a href="https://rest-assured.io/"><img src="images/logo/RestAssured.svg" width="50" height="50"  alt="olgakos" title="Rest-Assured"></a>
-<a href="https://git.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" title="Git"></a>
-<a href="https://github.com/"><img src="images/logo/GitHub.svg" width="50" height="50"  alt="olgakos" title="Github"></a>    
-<a href="https://www.redmine.org/projects/redmine"><img src="images/logo/redmine_png.png" width="50" height="50" alt="olgakos" title="Redmine"></a>
-<a href="https://www.postman.com/"><img src="images/logo/Postman.svg" width="50" height="50" alt="olgakos" title="Postman"></a>
-<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019"><img src="images/logo/MicrosoftSqlServer.svg" width="50" height="50" alt="olgakos" title="Microsoft SQL Server"></a>              
+<a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="olgakos" title="Jenkins"></a>
+<a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="olgakos" title="Selenoid"></a>    
+<a href="https://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="40" height="40"  alt="olgakos" title="Allure Report"></a>    
+<a href="https://web.telegram.org/"><img src="images/logo/Telegram.svg" width="40" height="40"  alt="olgakos" title="Telegram Bot"></a>
+<a href="https://rest-assured.io/"><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="olgakos" title="Rest-Assured"></a>
+<a href="https://git.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" title="Git"></a>
+<a href="https://github.com/"><img src="images/logo/GitHub.svg" width="40" height="40"  alt="olgakos" title="Github"></a>    
+<a href="https://www.redmine.org/projects/redmine"><img src="images/logo/redmine_png.png" width="40" height="40" alt="olgakos" title="Redmine"></a>
+<a href="https://www.postman.com/"><img src="images/logo/Postman.svg" width="40" height="40" alt="olgakos" title="Postman"></a>
+<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019"><img src="images/logo/MicrosoftSqlServer.svg" width="40" height="40" alt="olgakos" title="Microsoft SQL Server"></a>              
 <!--
 <a href="https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="olgakos" title="AllureTestOps"></a>
 <a href="https://habr.com/ru/post/438870/"><img src="images/logo/Lombok.svg" width="50" height="50"  alt="olgakos" title="Lombok"></a>  
@@ -158,7 +156,6 @@
 ## :anchor: Contacts
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
--->
-    
---------------------
+--> 
+
 UPD 2022-12-19

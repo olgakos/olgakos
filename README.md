@@ -42,12 +42,10 @@
 - Java (50%) IntelliJIDEA
 - Python (30%) PyCharm
 - C# (20%) Visual Studio
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
-<p align="left">Я использую следующий стек и инструменты. Но открыта и к другим технологиям.</p>
-
 <p align="left">
 <a href="https://www.ххх/"><img src="images/logo/pycharm.png" width="50" height="50"  alt="olgakos" title="PyCharm"></a>
 <a href="https://www.ххх/"><img src="images/logo/python.svg" width="50" height="50"  alt="olgakos" title="Python"></a>    
@@ -84,7 +82,7 @@
 <a href="https://www.atlassian.com/ru/software/jira"><img src="images/logo/Jira.svg" width="50" height="50"  alt="olgakos" title="Jira"></a>
 -->
 </p>
-    
+ <!--   
 <table valign="top"><tr>   
 <td>
 <b>Тестовые фреймворки:</b>
@@ -135,9 +133,7 @@
 <br>- Postman
 </td>
 </tr></table>
-
-## :sunflower: Commercial Projects 
-* Logistics Enterprise software (C# 100%, Selenium WebDriver + NUnut. Java,  REST-API tests)
+-->
 
 ## :unicorn: Pet-projects
 #### Python
@@ -149,14 +145,18 @@
 * <a target="_blank" href="https://github.com/olgakos/demo_rest_assured_tests">Demo Reqres.in API</a> (Java.  REST-API tests. Allure, Jenkins)
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
 
+## :sunflower: Commercial Projects 
+* Logistics Enterprise software (C# 100%, Selenium WebDriver + NUnut. Java,  REST-API tests)
+
 ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
  
 ## :anchor: Contacts   
 <p align="left">
 <a href="https://t.me/kos2304"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a> (...)
 <a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" title="My Gmail"></a>      
+<!--
 <a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>
-
+-->
     
 <!--
 [![Email](images/logo/GmailIcon.png)](mailto:qaxxx@gmail.com)

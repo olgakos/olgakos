@@ -24,44 +24,35 @@
 
 <!-- EDU section -->
 ## :four_leaf_clover: Образование, курсы   
-<details><summary><i>List</i></summary>  
-    
+<details><summary><i>List</i></summary> 
 * qa.guru
 * software-testing.ru
-* Udemy
-    
+* Udemy    
 </details>
 
-
 ## :four_leaf_clover: What am I doing
-- Пишу автотесты на Java (80%) и C# (20%)
+- Пишу автотесты Python (30%), Java (50%), C# (20%)
 - Выполняю ручное тестирование, взаимодействую с разработчиками
 - Составляю документацию: тест-кейсы и чек-листы, пользовательские инструкции, поддерживаю актуальность корпоративной Wiki.
-    
-## :four_leaf_clover: Languages
-- Java (50%) IntelliJIDEA
-- Python (30%) PyCharm
-- C# (20%) Visual Studio
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+  
+
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">
+<a href="https://www.ххх/"><img src="images/logo/python.svg" width="50" height="50"  alt="olgakos" title="Python"></a>        
 <a href="https://www.ххх/"><img src="images/logo/pycharm.png" width="50" height="50"  alt="olgakos" title="PyCharm"></a>
-<a href="https://www.ххх/"><img src="images/logo/python.svg" width="50" height="50"  alt="olgakos" title="Python"></a>    
 <a href="https://www.ххх/"><img src="images/logo/pytest.png" width="50" height="50"  alt="olgakos" title="PyTest"></a>
 <a href="https://www.ххх/"><img src="images/logo/selene.png" width="50" height="50"  alt="olgakos" title="Selene"></a>
 <a href="https://www.ххх/"><img src="images/logo/request.png" width="50" height="50"  alt="olgakos" title="Request"></a>    
 <p align="left">
+<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="olgakos" title="Java"></a>    
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="olgakos" title="IJ IDEA"></a>
-<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="olgakos" title="Java"></a>
 <a href="https://junit.org/junit5/"><img src="images/logo/Junit5.svg" width="50" height="50" alt="olgakos" title="JUnit 5"></a>
 <a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="50" height="50" alt="olgakos" title="Selenide"></a>
 <a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="50" height="50"  alt="olgakos" title="Gradle"></a>
 
 <p align="left">
-<a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="olgakos" title="Visual Studio"></a>  
 <a href="https://www.ххх/"><img src="images/logo/Csharp.svg" width="50" height="50"  alt="olgakos" title="C#"></a>
+<a href="https://www.ххх/"><img src="images/logo/VStudio.svg" width="50" height="50"  alt="olgakos" title="Visual Studio"></a>  
 <a href="https://www.ххх/"><img src="images/logo/NUnit_png.png" width="50" height="50"  alt="olgakos" title="NUnit"></a>
 <a href="https://www.ххх/"><img src="images/logo/webdriver4.png" width="50" height="50"  alt="olgakos" title="Slenium WebDriver"></a>
     
@@ -149,10 +140,15 @@
 * Logistics Enterprise software (C# 100%, Selenium WebDriver + NUnut. Java,  REST-API tests)
 
 ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
  
+<!--  Contacts section -->
 ## :anchor: Contacts   
 <p align="left">
-<a href="https://t.me/kos2304"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a> (...)
+<a href="https://t.me/flo_relle"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a>
 <a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" title="My Gmail"></a>      
 <!--
 <a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>
@@ -161,28 +157,12 @@
 <!--
 [![Email](images/logo/GmailIcon.png)](mailto:qaxxx@gmail.com)
 <a href="https://t.me/xxx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Olga Kos" height="50" width="50" /></a>
-<a href="***" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Google Drive" height="50" width="50" ></a>
 <a><img width="53%" align="center" title="Profile" alt="Olga's Profile" src="https://github-stats-alpha.vercel.app/api/?username=olgakos&cc=FFFFFF&tc=00b887&ic=b8722b&bc=FFFFFF"></a> 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olgakos&theme=vue)
 ## :anchor: Contacts
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 -->
+    
 --------------------
-UPD 2022-05-24
---------------------
-    
-<br>demo!
-
-
-
--------------------
-<details>
-    <summary>Образование в IT</summary>
-    
-## :four_leaf_clover: Образование, курсы    
-* qa.guru
-* software-testing.ru
-* Udemy
-    
-</details>
+UPD 2022-12-19

@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute: </h1>
 
-- QA engineer from Saint-Petersburg
-
-## :four_leaf_clover: Опыт   
-Коммерческий опыт в тестировании c 2018 года
+- QA engineer from Saint-Petersburg. Пишу автотесты Python (30%), Java (50%), C# (20%)
+- Выполняю ручное тестирование и составляю документацию: тест-кейсы и чек-листы, пользовательские инструкции, поддерживаю актуальность корпоративной Wiki.
+- Коммерческий опыт в тестировании c 2019 года
 <details>
     <summary><i>List</i></summary>
 <!-- Additional Work Line section -->
@@ -16,25 +15,22 @@
     dateFormat  YYYY-MM
     section OlgaKos
     Junior QA         :done, 2018-12, 90d
-    Manual Tester	  :done, 2019-03, 2019-09
+    Manual Tester	  :done, 2019-02, 2019-09
     Manual QA         :after, 2019-10, 2021-10
     QA automation engineer     :active, 2021-01, 2023-01
 ```
 </details>
 
 <!-- EDU section -->
-## :four_leaf_clover: Образование, курсы   
+## :four_leaf_clover: Образование, курсы
+
 <details><summary><i>List</i></summary> 
 * qa.guru
 * software-testing.ru
 * Udemy    
 </details>
 
-## :four_leaf_clover: What am I doing
-- Пишу автотесты Python (30%), Java (50%), C# (20%)
-- Выполняю ручное тестирование, взаимодействую с разработчиками
-- Составляю документацию: тест-кейсы и чек-листы, пользовательские инструкции, поддерживаю актуальность корпоративной Wiki.
-  
+ 
 
 ## :four_leaf_clover: Тexнoлoгичeский стeк 
 <p align="left">
@@ -139,8 +135,8 @@
 ## :sunflower: Commercial Projects 
 * Logistics Enterprise software (C# 100%, Selenium WebDriver + NUnut. Java,  REST-API tests)
 
+<!--  Widgets section -->
 ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->

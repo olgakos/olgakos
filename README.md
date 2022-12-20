@@ -123,7 +123,7 @@
 ## :unicorn: Pet-projects
 #### Python
 <br><a target="_blank" href="https://github.com/olgakos/demo_woneit">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) | <a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a> | <a href="***"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a> 
-<br><a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2">Demo Alfa Bank API</a> (Python. REST-API tests.) | <a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a> | <a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/4/allure/#suites"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a>
+<br><a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2">Demo Alfa Bank API</a> (Python. REST-API tests.) | <a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a> | <a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a>
 
 <br><a target="_blank" href="https://github.com/olgakos/demo_nytimes_app">Demo New York Times App (Python. Appium.)</a> 
 

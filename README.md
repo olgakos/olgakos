@@ -146,7 +146,9 @@
 ## :anchor: Contacts   
 <p align="left">
 <a href="https://t.me/flo_relle"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a>
-<a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" title="My Gmail"></a>      
+<a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" title="My Gmail"></a>
+<a href="https://www.linkedin.com/in/olga-k-b3502493/" target="blank"><img src="images/logo/linkedin.png" height="50" width="50" title="Linkedin"></a>  
+    
 <!--
 <a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>
 -->

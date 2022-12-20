@@ -122,7 +122,7 @@
 
 ## :unicorn: Pet-projects
 #### Python
-<br><a target="_blank" href="https://github.com/olgakos/demo_woneit">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) <a href="[https://www.postman.com/](https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/)"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a>
+<br><a target="_blank" href="https://github.com/olgakos/demo_woneit">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) <a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a>
 <br><a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2">Demo Alfa Bank API</a> (Python. REST-API tests.)
 <br><a target="_blank" href="https://github.com/olgakos/demo_nytimes_app">Demo New York Times App (Python. Appium.)</a> 
 

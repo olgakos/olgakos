@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute: </h1>
 
-- QA engineer from Saint-Petersburg. Пишу автотесты Python (30%), Java (50%), C# (20%)
-- Выполняю ручное тестирование и составляю документацию: тест-кейсы и чек-листы, пользовательские инструкции, поддерживаю актуальность корпоративной Wiki.
+- QA engineer from Saint-Petersburg. 
+- Python (30%), Java (50%), C# (20%)
 - Коммерческий опыт в тестировании c 2019 года
 <details>
     <summary><i>List</i></summary>
@@ -121,7 +121,8 @@
 -->
 
 ## :unicorn: Pet Projects:
-#### Python
+Примеры моих демо-проектов с автоматизацией тестсиирования: 
+#### Python:
 <a target="_blank" href="https://github.com/olgakos/demo_woneit">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/9/allure/"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code> 
@@ -132,7 +133,7 @@
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/)"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/*/allure/"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code>
 
-#### Java
+#### Java:
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot)
 * <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (Java.  REST-API tests. Allure, Jenkins)
 * <a target="_blank" href="https://github.com/olgakos/demo_rest_assured_tests">Demo Reqres.in API</a> (Java.  REST-API tests. Allure, Jenkins)

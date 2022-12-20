@@ -32,8 +32,7 @@
 </details>
 -->  
 
-## :four_leaf_clover: Тexнoлoгичeский стeк 
-
+## :four_leaf_clover: Languages and Tools:
 <code><img src="images/logo/python.svg" width="40" height="40"  alt="olgakos" title="Python"></code>
 <code><img src="images/logo/pycharm.png" width="40" height="40"  alt="olgakos" title="PyCharm"></code>
 <code><img src="images/logo/pytest.png" width="40" height="40"  alt="olgakos" title="PyTest"></code>
@@ -59,7 +58,6 @@
 <code><img src="images/logo/redmine_png.png" width="40" height="40" alt="olgakos" title="Redmine"></code>
 <code><img src="images/logo/Postman.svg" width="40" height="40" alt="olgakos" title="Postman"></code> 
 <code><img src="images/logo/MicrosoftSqlServer.svg" width="40" height="40" alt="olgakos" title="Microsoft SQL Server"></code> 
-
       
 <!--
 <code></code> 
@@ -122,7 +120,7 @@
 </tr></table>
 -->
 
-## :unicorn: Pet-projects
+## :unicorn: Pet Projects:
 #### Python
 <a target="_blank" href="https://github.com/olgakos/demo_woneit">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
@@ -140,8 +138,8 @@
 * <a target="_blank" href="https://github.com/olgakos/demo_rest_assured_tests">Demo Reqres.in API</a> (Java.  REST-API tests. Allure, Jenkins)
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
 
-## :sunflower: Commercial Projects 
-* Logistics Enterprise software (C# 100%, Selenium WebDriver + NUnut. Java,  REST-API tests)
+## :sunflower: Commercial Project: 
+* Logistics Enterprise software (C#: Selenium WebDriver + NUnut. Java: Junit5 + REST-API)
 
 <!--  Widgets section -->
 ![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
@@ -170,4 +168,4 @@
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 --> 
 
-UPD 2022-12-19
+UPD 2022-12-20

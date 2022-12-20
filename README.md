@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute: </h1>
 
-- QA engineer from Saint-Petersburg. 
+- QA engineer from Saint-Petersburg 
 - Python (30%), Java (50%), C# (20%)
 - Коммерческий опыт в тестировании c 2019 года
 <details>
-    <summary><i>List</i></summary>
+    <summary><i>Details...</i></summary>
 <!-- Additional Work Line section -->
 <!-- <summary>My Work Line</summary> -->  
     

@@ -140,19 +140,14 @@
 
 ## :sunflower: Commercial Project: 
 * Logistics Enterprise software (C#: Selenium WebDriver + NUnut. Java: Junit5 + REST-API)
-
-<!--  Widgets section -->
-![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
  
 <!--  Contacts section -->
 ## :anchor: Contacts   
 <p align="left">
-<a href="https://t.me/flo_relle"><img src="images/logo/Telegram.svg" width="50" height="50" title="My Telegram"></a>
-<a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="50" width="50" title="My Gmail"></a>
-<a href="https://www.linkedin.com/in/olga-k-b3502493/" target="blank"><img src="images/logo/linkedin.png" height="50" width="50" title="Linkedin"></a>  
+<a href="https://t.me/flo_relle"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a>
+<a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a>
+<a href="https://www.linkedin.com/in/olga-k-b3502493/" target="blank"><img src="images/logo/linkedin.png" height="35" width="35" title="My Linkedin"></a>  
+ 
     
 <!--
 <a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>
@@ -167,5 +162,11 @@
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 --> 
+
+<!--  Widgets section -->
+![OlgaKos's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgakos&theme=vue) ![OlgaKos's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olgakos&theme=vue)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 UPD 2022-12-20

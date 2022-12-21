@@ -50,7 +50,8 @@
 
 <code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="olgakos" title="Jenkins"></code>
 <code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="olgakos" title="Selenoid"></code>
-<code><img src="images/logo/Allure.svg" width="40" height="40"  alt="olgakos" title="Allure Report"></code>
+<!--<code><img src="images/logo/Allure.svg" width="40" height="40"  alt="olgakos" title="Allure Report"></code>-->
+<code><img src="images/logo/Allure_new.png" width="40" height="40"  alt="olgakos" title="Allure Report"></code>
 <code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="olgakos" title="Telegram Bot"></code>
 <code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="olgakos" title="Rest-Assured"></code>
 <code><img src="images/logo/Git.svg" width="40" height="40" alt="Git" title="Git"></code>

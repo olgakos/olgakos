@@ -1,9 +1,11 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute: </h1>
+<br>QA engineer from Saint-Petersburg. 
+<br>~ 3 years (since 2019) of experience in automated web testing.
+<br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest...
+<br>Experience with Python (30%), Java (50%), C# (20%), base SQL knowledge.
+<br>Experience work in a office and a distributed team. 
 
-- QA engineer from Saint-Petersburg 
-- Python (30%), Java (50%), C# (20%)
-- Коммерческий опыт в тестировании c 2019 года
 <details>
     <summary><i>Details...</i></summary>
 <!-- Additional Work Line section -->
@@ -176,8 +178,6 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"><div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="olga-k-b3502493" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/olga-k-b3502493?trk=profile-badge">Olga K.</a></div></script>
-
        
 ------------------
 UPD 2022-12-21

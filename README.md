@@ -130,14 +130,14 @@
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/9/allure/" target="_blank"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code> 
 <br><a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.) 
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/4/allure/" target="_blank"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code>
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/4/allure/" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>
 <br><a target="_blank" href="https://github.com/olgakos/demo_browserstack2" target="_blank">Wikipedia App (demo)</a> (Python. BrowserStack.)
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#" target="_blank"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code>
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>
 <!--
 <br><a target="_blank" href="https://github.com/olgakos/demo_nytimes_app">Demo New York Times App (Python. Appium.)</a>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/*/allure/"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code>-->
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/*/allure/"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>-->
 
 #### Java:
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot)

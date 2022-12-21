@@ -50,7 +50,6 @@
 
 <code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="olgakos" title="Jenkins"></code>
 <code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="olgakos" title="Selenoid"></code>
-<!--<code><img src="images/logo/Allure.svg" width="40" height="40"  alt="olgakos" title="Allure Report"></code>-->
 <code><img src="images/logo/Allure_new.png" width="40" height="40"  alt="olgakos" title="Allure Report"></code>
 <code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="olgakos" title="Telegram Bot"></code>
 <code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="olgakos" title="Rest-Assured"></code>
@@ -130,7 +129,7 @@
 -->
 
 ## :unicorn: Pet Projects:
-Примеры моих демо-проектов с автоматизацией тестсиирования: 
+Примеры моих демо-проектов с автотестами: 
 #### Python:
 * <a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
@@ -176,5 +175,5 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgakos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-UPD 2022-12-20
+------------------
+UPD 2022-12-21

@@ -53,7 +53,7 @@
 <code><img src="images/logo/Allure.svg" width="40" height="40"  alt="olgakos" title="Allure Report"></code>
 <code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="olgakos" title="Telegram Bot"></code>
 <code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="olgakos" title="Rest-Assured"></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" title="Git"></code>
+<code><img src="images/logo/Git.svg" width="40" height="40" alt="Git" title="Git"></code>
 <code><img src="images/logo/GitHub.svg" width="40" height="40"  alt="olgakos" title="Github"></code>
 <code><img src="images/logo/redmine_png.png" width="40" height="40" alt="olgakos" title="Redmine"></code>
 <code><img src="images/logo/Postman.svg" width="40" height="40" alt="olgakos" title="Postman"></code> 

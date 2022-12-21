@@ -178,5 +178,6 @@
 -->
 
 <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="olga-k-b3502493" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/olga-k-b3502493?trk=profile-badge">Olga K.</a></div>
+              
 ------------------
 UPD 2022-12-21

@@ -20,7 +20,7 @@
     QA automation engineer     :active, 2021-01, 2023-01
 ```
 </details>
-
+    
 <!-- EDU section -->
 <!--
 ## :four_leaf_clover: Образование, курсы
@@ -69,6 +69,13 @@
 <a href="https://www.atlassian.com/ru/software/jira"><img src="images/logo/Jira.svg" width="50" height="50"  alt="olgakos" title="Jira"></a>
 -->
 </p>
+
+<!--  Contacts section -->
+## :anchor: Contact me :) 
+<code><a href="https://t.me/flo_relle"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
+<code><a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
+<code><a href="https://www.linkedin.com/in/olga-k-b3502493/" target="blank"><img src="images/logo/linkedin.png" height="40" width="40" title="My Linkedin"></a></code> 
+
  <!--   
 <table valign="top"><tr>   
 <td>
@@ -125,13 +132,13 @@
 ## :unicorn: Pet Projects:
 Примеры моих демо-проектов с автоматизацией тестсиирования: 
 #### Python:
-<a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
+* <a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/9/allure/" target="_blank"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code> 
-<br><a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.) 
+* <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.) 
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/4/allure/" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>
-<br><a target="_blank" href="https://github.com/olgakos/demo_browserstack2" target="_blank">Wikipedia App (demo)</a> (Python. BrowserStack.)
+* <a target="_blank" href="https://github.com/olgakos/demo_browserstack2" target="_blank">Wikipedia App (demo)</a> (Python. BrowserStack.)
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>
 <!--
@@ -147,14 +154,8 @@
 
 ## :sunflower: Commercial Project: 
 * Logistics Enterprise software (C#: Selenium WebDriver + NUnut. Java: Junit5 + REST-API)
- 
-<!--  Contacts section -->
-## :anchor: Contacts   
-<p align="left">
-<a href="https://t.me/flo_relle"><img src="images/logo/Telegram.svg" width="40" height="40" title="My Telegram"></a>
-<a href="mailto:qakostina@gmail.com" target="blank"><img src="images/logo/Gmail.svg" height="40" width="40" title="My Gmail"></a>
-<a href="https://www.linkedin.com/in/olga-k-b3502493/" target="blank"><img src="images/logo/linkedin.png" height="35" width="35" title="My Linkedin"></a>  
- 
+  
+     
     
 <!--
 <a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>

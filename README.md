@@ -124,15 +124,15 @@
 ## :unicorn: Pet Projects:
 Примеры моих демо-проектов с автоматизацией тестсиирования: 
 #### Python:
-<a target="_blank" href="https://github.com/olgakos/demo_woneit">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/9/allure/"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code> 
-<br><a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2">Demo Alfa Bank API</a> (Python. REST-API tests.) 
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/4/allure/"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code>
-<br><a target="_blank" href="https://github.com/olgakos/demo_browserstack2">Wikipedia App (demo) (Python. Browsersteck.)</a>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code>
+<a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/9/allure/" target="_blank"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code> 
+<br><a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.) 
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/4/allure/" target="_blank"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code>
+<br><a target="_blank" href="https://github.com/olgakos/demo_browserstack2" target="_blank">Wikipedia App (demo) (Python. Browsersteck.)</a>
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#" target="_blank"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code>
 <!--
 <br><a target="_blank" href="https://github.com/olgakos/demo_nytimes_app">Demo New York Times App (Python. Appium.)</a>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
@@ -140,9 +140,9 @@
 
 #### Java:
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot)
-* <a target="_blank" href="https://github.com/olgakos/demo_Dune_API">Demo Dune API</a> (Java.  REST-API tests. Allure, Jenkins)
-* <a target="_blank" href="https://github.com/olgakos/demo_rest_assured_tests">Demo Reqres.in API</a> (Java.  REST-API tests. Allure, Jenkins)
-* <a target="_blank" href="https://github.com/olgakos/qa_guru_11_21_browserstack4">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
+* <a href="https://github.com/olgakos/demo_Dune_API" target="_blank">Demo Dune API</a> (Java.  REST-API tests. Allure, Jenkins)
+* <a href="https://github.com/olgakos/demo_rest_assured_tests" target="_blank">Demo Reqres.in API</a> (Java.  REST-API tests. Allure, Jenkins)
+* <a href="https://github.com/olgakos/qa_guru_11_21_browserstack4" target="_blank">Demo тестирования мобильного приложения "Wikipedia"</a> (BrowserStack, Allure)
 
 ## :sunflower: Commercial Project: 
 * Logistics Enterprise software (C#: Selenium WebDriver + NUnut. Java: Junit5 + REST-API)

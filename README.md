@@ -136,7 +136,7 @@
 #### Python:
 * <a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/9/allure/" target="_blank"><img src="images/logo/Allure.svg" width="25" height="25" alt="olgakos" title="Allure"></a></code> 
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/9/allure/" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code> 
 * <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.) 
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/4/allure/" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>

@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute: </h1>
 <br>QA engineer from Saint-Petersburg. 
-<br>~ 3 years (since 2019) of experience in automated web testing.
+<br>~ 4 years (since 2019) of experience in automated web testing.
 <br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest...
-<br>Experience with Python (30%), Java (50%), C# (20%), base SQL knowledge.
+<br>Experience with Java (50%), Python (30%), C# (20%). Base SQL knowledge.
 <br>Experience work in a office and a distributed team. 
 
 <details>

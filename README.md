@@ -22,7 +22,7 @@
     QA automation engineer     :active, 2021-01, 2023-01
 ```
 </details>
-             
+            
     
 <!-- EDU section -->
 <!--
@@ -132,38 +132,29 @@
 -->
 
 ## :unicorn: Pet Projects:
-Примеры моих демо-проектов с автотестами: 
-#### Python:
+#### Python
 * <a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_demo_woneit/9/allure/" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code> 
 * <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.) 
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_alfabank_api_test/9/allure/#suites/e6381a485aa9b70d27e6cad327b297d1/e38065b091afbcc3/" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>
 
-<!--
-<br><a target="_blank" href="https://github.com/olgakos/demo_nytimes_app">Demo New York Times App (Python. Appium.)</a>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/*/allure/"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>-->
-
-#### Java:
+#### Java
 * <a target="_blank" href="https://github.com/olgakos/Demo-Arivistika-Java">Demo to Arivistika</a> (Java. UI tests. Allure, Jenkins)
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot)
 * <a href="https://github.com/olgakos/demo_Dune_API" target="_blank">Demo Dune API</a> (Java.  REST-API tests. Allure, Jenkins)
 * <a href="https://github.com/olgakos/demo_rest_assured_tests" target="_blank">Demo Reqres.in API</a> (Java.  REST-API tests. Allure, Jenkins)
 
+#### C# (коммерческий проект)
+* Logistics Enterprise software (C#. Selenium WebDriver, NUnut)
 
-  #### Mobile
-  * <a href="https://github.com/olgakos/qa_guru_11_21_browserstack4" target="_blank">Demo тестирования мобильного приложения "Wikipedia"</a> (Java, BrowserStack, Allure)
-  * <a target="_blank" href="https://github.com/olgakos/demo_browserstack2" target="_blank">Wikipedia App (demo)</a> (Python. BrowserStack.)
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/" target="_blank"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
-<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#" target="_blank"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>
-  
+#### Mobile:
+* <a href="https://github.com/olgakos/qa_guru_11_21_browserstack4" target="_blank">Demo тестирования мобильного приложения "Wikipedia"</a> (Java, BrowserStack)
+* <a target="_blank" href="https://github.com/olgakos/demo_browserstack2" target="_blank">Wikipedia App (demo)</a> (Python, BrowserStack.)
 
-## :sunflower: Commercial Project: 
-* Logistics Enterprise software (C#: Selenium WebDriver + NUnut. Java: Junit5 + REST-API)
-  
-     
+<!--
+<br><a target="_blank" href="https://github.com/olgakos/demo_nytimes_app">Demo New York Times App (Python. Appium.)</a>
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
+<code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/*/allure/"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>-->  
+
+
     
 <!--
 <a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>
@@ -186,4 +177,4 @@
 -->
        
 ------------------
-UPD 2022-12-21
+UPD 2023-07-20

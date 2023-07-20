@@ -41,11 +41,13 @@
 <code><img src="images/logo/pytest.png" width="40" height="40"  alt="olgakos" title="PyTest"></code>
 <code><img src="images/logo/selene.png" width="40" height="40"  alt="olgakos" title="Selene"></code>
 <code><img src="images/logo/request.png" width="40" height="40"  alt="olgakos" title="Request"></code>
+
 <code><img src="images/logo/Java.svg" width="40" height="40"  alt="olgakos" title="Java"></code>
 <code><img src="images/logo/Idea.svg" width="40" height="40"  alt="olgakos" title="IJ IDEA"></code>
 <code><img src="images/logo/Junit5.svg" width="40" height="40" alt="olgakos" title="JUnit 5"></code>
 <code><img src="images/logo/Selenide.svg" width="40" height="40" alt="olgakos" title="Selenide"></code>
 <code><img src="images/logo/Gradle.svg" width="40" height="40"  alt="olgakos" title="Gradle"></code>
+
 <code><img src="images/logo/Csharp.svg" width="40" height="40"  alt="olgakos" title="C#"></code>
 <code><img src="images/logo/VStudio.svg" width="40" height="40"  alt="olgakos" title="Visual Studio"></code>
 <code><img src="images/logo/NUnit_png.png" width="40" height="40"  alt="olgakos" title="NUnit"></code>

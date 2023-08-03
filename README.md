@@ -135,18 +135,17 @@
 -->
 
 ## :unicorn: Pet Projects:
-#### Python
-* <a target="_blank" href="https://github.com/olgakos/demo-arivistika-python3">Demo to Arivistika</a> (Python. UI tests. Allure, Jenkins)
-* <a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
-* <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.) 
-
-
 #### Java
 * <a target="_blank" href="https://github.com/olgakos/Demo-Arivistika-Java">Demo to Arivistika</a> (Java. UI tests. Allure, Jenkins)
 * <a target="_blank" href="https://github.com/olgakos/qa_guru_11_13_Demo_Itigris">Demo to Itigris</a>  (Java. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot)
 * <a href="https://github.com/olgakos/demo_Dune_API" target="_blank">Demo Dune API</a> (Java.  REST-API tests. Allure, Jenkins)
 * <a href="https://github.com/olgakos/demo_rest_assured_tests" target="_blank">Demo Reqres.in API</a> (Java.  REST-API tests. Allure, Jenkins)
 
+#### Python
+* <a target="_blank" href="https://github.com/olgakos/demo-arivistika-python3">Demo to Arivistika</a> (Python. UI tests. Allure, Jenkins)
+* <a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
+* <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.)
+  
 #### C# (коммерческий проект)
 * Logistics Enterprise software (C#. Selenium WebDriver, NUnut)
 
@@ -158,8 +157,6 @@
 <br><a target="_blank" href="https://github.com/olgakos/demo_nytimes_app">Demo New York Times App (Python. Appium.)</a>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/"><img src="images/logo/Jenkins.svg" width="25" height="25" alt="olgakos" title="Jenkins"></a></code>
 <code><a href="https://jenkins.autotests.cloud/job/C02_OlgaKos_python_newyorktimes_app_test/*/allure/"><img src="images/logo/Allure_new.png" width="25" height="25" alt="olgakos" title="Allure"></a></code>-->  
-
-
     
 <!--
 <a href="***" target="blank"><img src="images/logo/GoogleDrive.svg" height="50" width="50" title="Краткое резюме в Google Drive (пока не загрузено)"></a>

@@ -53,7 +53,7 @@
 <code><img src="images/logo/Csharp.svg" width="40" height="40"  alt="olgakos" title="C#"></code>
 <code><img src="images/logo/VStudio.svg" width="40" height="40"  alt="olgakos" title="Visual Studio"></code>
 <code><img src="images/logo/NUnit_png.png" width="40" height="40"  alt="olgakos" title="NUnit"></code>
-<code><img src="images/logo/webdriver4.png" width="40" height="40"  alt="olgakos" title="Slenium WebDriver"></code>
+<code><img src="images/logo/webdriver4.png" width="40" height="40"  alt="olgakos" title="Selenium WebDriver"></code>
 
 <code><img src="images/logo/Jenkins.svg" width="40" height="40"  alt="olgakos" title="Jenkins"></code>
 <code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="olgakos" title="Selenoid"></code>

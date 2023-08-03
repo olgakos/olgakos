@@ -48,6 +48,7 @@
 <code><img src="images/logo/Junit5.svg" width="40" height="40" alt="olgakos" title="JUnit 5"></code>
 <code><img src="images/logo/Selenide.svg" width="40" height="40" alt="olgakos" title="Selenide"></code>
 <code><img src="images/logo/Gradle.svg" width="40" height="40"  alt="olgakos" title="Gradle"></code>
+<code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="olgakos" title="Rest-Assured"></code>
 
 <code><img src="images/logo/Csharp.svg" width="40" height="40"  alt="olgakos" title="C#"></code>
 <code><img src="images/logo/VStudio.svg" width="40" height="40"  alt="olgakos" title="Visual Studio"></code>
@@ -58,7 +59,6 @@
 <code><img src="images/logo/Selenoid.svg" width="40" height="40"  alt="olgakos" title="Selenoid"></code>
 <code><img src="images/logo/Allure_new.png" width="40" height="40"  alt="olgakos" title="Allure Report"></code>
 <code><img src="images/logo/Telegram.svg" width="40" height="40"  alt="olgakos" title="Telegram Bot"></code>
-<code><img src="images/logo/RestAssured.svg" width="40" height="40"  alt="olgakos" title="Rest-Assured"></code>
 <code><img src="images/logo/Git.svg" width="40" height="40" alt="Git" title="Git"></code>
 <code><img src="images/logo/GitHub.svg" width="40" height="40"  alt="olgakos" title="Github"></code>
 <code><img src="images/logo/redmine_png.png" width="40" height="40" alt="olgakos" title="Redmine"></code>

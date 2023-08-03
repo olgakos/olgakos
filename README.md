@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute: </h1>
 <br>QA engineer from Saint-Petersburg. 
-<br>~ 4 years (since 2019) of experience in automated web testing.
+<br>Experience in web testing since 2018
+<br>Autonation QA since 2020
 <br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest...
 <br>Experience with Java (50%), Python (30%), C# (20%). Base SQL knowledge.
 <br>Experience work in a office and a distributed team. 
@@ -13,13 +14,13 @@
     
 ```mermaid
   gantt 
-    title In IT since 2018. Work experience (A Gantt chart was updated on 2022-12-16):
+    title In IT since 2018. Work experience (A Gantt chart was updated on 2023-08-01):
     dateFormat  YYYY-MM
     section OlgaKos
     Junior QA         :done, 2018-12, 90d
     Manual Tester	  :done, 2019-03, 2019-09
-    Manual QA         :after, 2019-10, 2021-10
-    QA automation engineer     :active, 2021-01, 2023-01
+    Manual QA         :after, 2019-09, 2021-10
+    QA automation engineer     :active, 2020-06, 2023-08
 ```
 </details>
             
@@ -181,4 +182,4 @@
 -->
        
 ------------------
-UPD 2023-07-20
+UPD 2023-08-01

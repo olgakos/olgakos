@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/olgakos" target="_blank">Olga</a> :vulcan_salute: </h1>
 <br>QA engineer from Saint-Petersburg. 
 <br>Experience in web testing since 2018
-<br>Autonation QA since 2020
+<br>Automation QA since 2020
 <br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest...
 <br>Experience with Java (50%), Python (30%), C# (20%). Base SQL knowledge.
 <br>Experience work in a office and a distributed team. 

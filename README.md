@@ -143,7 +143,7 @@
 
 #### Python
 * <a target="_blank" href="https://github.com/olgakos/demo-arivistika-python3">Demo to Arivistika</a> (Python. UI tests. Allure, Jenkins)
-* <a target="_blank" href="https://github.com/olgakos/small_pet_remote_py">Landesarchiv Berlin (light)</a> (Python. UI tests. Allure, Jenkins)
+* <a target="_blank" href="https://github.com/olgakos/small_pet_remote_py">Landesarchiv Berlin (mini)</a> (Python. UI tests. Allure, Jenkins)
 * <a target="_blank" href="https://github.com/olgakos/demo_woneit" target="_blank">Demo Wone IT company</a> (Python. UI tests, REST-API tests. Allure, Jenkins, Telegram Bot) 
 * <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.)
   

@@ -148,7 +148,7 @@
 * <a target="_blank" href="https://github.com/olgakos/demo_alfabank_api2" target="_blank">Demo Alfa Bank API</a> (Python. REST-API tests.)
   
 #### C# (коммерческий проект)
-* Logistics Enterprise software (C#. Selenium WebDriver, NUnut)
+* Logistics Enterprise software (C#. UI tests. NUnut. Selenium WebDriver, NSelene)
 
 #### Mobile:
 * <a href="https://github.com/olgakos/qa_guru_11_21_browserstack4" target="_blank">Demo тестирования мобильного приложения "Wikipedia"</a> (Java, BrowserStack)
